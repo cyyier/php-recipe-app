@@ -10,8 +10,6 @@
 
 ## データベースER図
 
-プロジェクトのデータベース構造を理解するためのER図を以下に示します。
-
 ![image](https://github.com/cyyier/recipe/assets/52512369/4afd8d4c-f879-45af-baf9-5a90a7b3e1f3)
 
 
