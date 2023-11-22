@@ -25,5 +25,6 @@
 ![image](https://github.com/cyyier/recipe/assets/52512369/dcdeb521-b649-4940-a50e-1358c69922c3)
 ![image](https://github.com/cyyier/recipe/assets/52512369/fb1e2e2a-50d2-408b-b370-b30dfae7125f)
 
-
+## 
+著作権の関係により、一部の画像、フォント及び音声ファイルを削除しました。
 
