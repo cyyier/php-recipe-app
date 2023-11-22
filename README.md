@@ -10,7 +10,7 @@
 - **データベース**: MySQL 5.7
 - **フロントエンド**: HTML, CSS, Javascript， Bulma
 
-## データベースER図
+## ER図
 
 ![image](https://github.com/cyyier/recipe/assets/52512369/4afd8d4c-f879-45af-baf9-5a90a7b3e1f3)
 
