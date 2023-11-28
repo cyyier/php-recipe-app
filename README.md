@@ -16,7 +16,7 @@
 
 
 ## クリーンショット
-![image](https://github.com/cyyier/recipe/assets/52512369/82d2d0de-8a08-42a9-8fd8-f0a11d5130dd)
+![image](https://github.com/cyyier/recipe/assets/52512369/a01e4ede-9cdf-40fc-8be4-42b32e5d9d80)
 ![image](https://github.com/cyyier/recipe/assets/52512369/a3a221c4-e1ad-4956-9c72-bf8013ab405d)
 ![image](https://github.com/cyyier/recipe/assets/52512369/6b2e02b3-bfd1-4c51-bf2f-64e9aeab985b)
 ![image](https://github.com/cyyier/recipe/assets/52512369/d804c348-f6d9-46b5-b913-ed2d2db4b038)
